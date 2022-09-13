@@ -7,7 +7,7 @@ import org.apache.http.impl.client.HttpClients;
 import java.net.URI;
 
 public class DiscordNotif {
-    String url = "https://discordapp.com/api/webhooks/1014319311197847593/jjY11oRqtES_FS7lz330mqi_4rSl-zA_rNvcg2yDySriqStqmuZtntLsF8dKY1sQvrEW";
+    String url = "https://discordapp.com/api/webhooks/<<yourwebhook>>":
 
     DiscordNotif() throws Exception {
     }
